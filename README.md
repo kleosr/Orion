@@ -107,28 +107,5 @@ npm run dev
 
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💬 Support
-
-- [Open an issue](https://github.com/yourusername/orion-discord-bot/issues) for bug reports or feature requests
-- Join our [Discord server](https://discord.gg/YOUR_INVITE) for community support
-- Star the repository if you find it helpful!
-
 ---
-
-<div align="center">
-Made with ❤️ by [KleoSr]
-</div>
+Made with ❤️ by KleoSr
