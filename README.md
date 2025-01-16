@@ -1,4 +1,4 @@
-# 🤖 Orion Discord Bot
+# 🤖 Orion Discord Bot | Source Code on Releases
 
 <div align="center">
 
