@@ -32,7 +32,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/orion-discord-bot.git
+git clone https://github.com/kleosr/orion-discord-bot.git
 cd orion-discord-bot
 ```
 
