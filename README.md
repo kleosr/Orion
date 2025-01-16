@@ -9,8 +9,6 @@
 [Features](#features) •
 [Installation](#installation) •
 [Usage](#usage) •
-[Contributing](#contributing) •
-[Support](#support)
 
 </div>
 
@@ -104,8 +102,4 @@ npm run dev
 | `/setlogs` | Set up logging channels |
 | `/logs` | View server logs and configurations |
 
-
-```
-
----
 Made with ❤️ by KleoSr
