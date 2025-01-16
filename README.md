@@ -8,7 +8,7 @@
 
 [Features](#features) •
 [Installation](#installation) •
-[Usage](#usage) •
+[Usage](#usage) 
 
 </div>
 
